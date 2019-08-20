@@ -5,6 +5,9 @@ Script to parse the Notarial Repertorium.
 import re
 from collections import defaultdict
 
+from datetime import datetime
+import dateparser
+
 FILE = "data/repertorium.txt"
 
 ## Cities
@@ -159,6 +162,21 @@ def parseNotary(chunk, n=None, notaries=None):
             if c.startswith(f):
                 notaries[n][f] = c.split(': ')[1]
 
+    ### birth
+    # field = 'geboren'
+    if notaries[n].get('geboren'):
+        birthdate = notaries[n]['geboren']
+
+        date = getDate(birthdate)
+
+        print(date, '\t', birthdate)
+
+    ### baptism
+    # field = 'doop'
+
+    ### death
+    # field = 'overlijden'
+
     return notaries
 
 
@@ -176,6 +194,24 @@ def correctChunk(chunk):
             previous_c += " " + c
 
     return new_chunk
+
+
+def getDate(datestring):
+
+    if 'of' in datestring:
+        return tuple(getDate(d) for d in datestring.split(' of '))
+
+    parsedate = dateparser.parse(datestring)
+
+    # standard, today's date and month are added if there is only a year parsed.
+    if parsedate.day == datetime.now().day and parsedate.month == datetime.now(
+    ).month:
+        return f"{parsedate.year}"
+
+    elif parsedate.day == datetime.now().day:
+        return f"{parsedate.year}-{parsedate.month}"
+    else:
+        return f"{parsedate.year}-{parsedate.month}-{parsedate.day}"
 
 
 if __name__ == "__main__":
