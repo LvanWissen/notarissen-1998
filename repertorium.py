@@ -162,20 +162,37 @@ def parseNotary(chunk, n=None, notaries=None):
             if c.startswith(f):
                 notaries[n][f] = c.split(': ')[1]
 
-    ### birth
+    ## birth
     # field = 'geboren'
     if notaries[n].get('geboren'):
         birthdate = notaries[n]['geboren']
-
         date = getDate(birthdate)
 
-        print(date, '\t', birthdate)
+        notaries[n]['birthDate'] = date
 
-    ### baptism
+    ## baptism
     # field = 'doop'
+    if notaries[n].get('doop'):
+        birthdate = notaries[n]['doop']
+        date = getDate(birthdate)
 
-    ### death
+        notaries[n]['baptismDate'] = date
+
+    ## death
     # field = 'overlijden'
+    if notaries[n].get('overlijden'):
+        birthdate = notaries[n]['overlijden']
+        date = getDate(birthdate)
+
+        notaries[n]['deathDate'] = date
+
+    ## appointment
+    # field = 'aanstelling'
+    if notaries[n].get('aanstelling'):
+        appointmentDate = notaries[n]['aanstelling']
+        date = getDate(appointmentDate)
+
+        notaries[n]['appointmentDate'] = date
 
     return notaries
 
@@ -198,10 +215,30 @@ def correctChunk(chunk):
 
 def getDate(datestring):
 
+    if '; ' in datestring:
+        dates = tuple(
+            getDate(d) for d in datestring.split('; ')
+            if getDate(d) is not None)
+        if len(dates) > 1:
+            return dates
+        elif len(dates) == 1:
+            return dates[0]
+        else:
+            return None
+
+    # is there a place mentioned?
+    if ' te ' in datestring:
+        datestring, place = datestring.split(' te ')  #TODO place?
+
     if 'of' in datestring:
         return tuple(getDate(d) for d in datestring.split(' of '))
 
+    if ', ' in datestring:
+        datestring, rest = datestring.rsplit(', ', 1)  #TODO comment?
+
     parsedate = dateparser.parse(datestring)
+    if parsedate is None:
+        return None
 
     # standard, today's date and month are added if there is only a year parsed.
     if parsedate.day == datetime.now().day and parsedate.month == datetime.now(

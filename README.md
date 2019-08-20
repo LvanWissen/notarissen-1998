@@ -26,6 +26,7 @@ Changed:
 * Johannes d' Amour: zie Amsterdam --> Johannes d'Amour: zie Amsterdam
 * familierelatie: --> familierelaties:
 * nevenfunctie: --> nevenfuncties:
+* 28 jaar1 --> 28 jaar
 
 Removed:
 
