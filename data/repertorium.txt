@@ -1,5 +1,6 @@
 <pagina 28>
-NOTARISSEN IN AMSTERDAM
+
+AMSTERDAM
 
 1. Joan van Aalburg
 admissie: 1797 sept. 11 op nominatie van
@@ -2453,7 +2454,7 @@ aanstelling: 1786 feb. 28
 leeftijd bij aanstelling: 25 jaar
 protocol: 1786-1802: GAA NA 17529-
 17559
-ambtsbeëindiging:1803 jan. 24 overleden
+ambtsbeëindiging: 1803 jan. 24 overleden
 adres: 1786 Keizersgracht, tussen
 Raadhuisstraat en Leidsestraat; 1787-1788
 Oudezijds Achterburgwal; 1789-1796
@@ -3230,9 +3231,7 @@ herkomst: Amsterdam
 geboren: 1739
 ondertrouw: 1768 apr. 1
 begraven: 1808 jul. 13
-Bronnen: ReA 730 f.76; HvH 5931; AO 55 p.310
-
-4. AO 56 p.345; AO 57 p.348; DTB 613 p.348, 1768 apr. 1;
+Bronnen: ReA 730 f.76; HvH 5931; AO 55 p.310 4. AO 56 p.345; AO 57 p.348; DTB 613 p.348, 1768 apr. 1;
 Herenb; NA 18242 akte 154, 1801 jul. 21; DTB 1051 p.162,
 1808 jul. 13.
 
@@ -4925,7 +4924,7 @@ p.42; NA 4 f.350v, 1602 aug. 6; WK lade 245; NA 4 f.534,
 admissie: 1653 jun. 24 op nominatie van
 Amsterdam
 aanstelling: 1653
-leeftijd bij aanstelling:21 jaar
+leeftijd bij aanstelling: 21 jaar
 protocol: 1653-1674: GAA NA 2571-2610;
 bevat akten van Jan Warnaertsz.
 ambtsbeëindiging: 1675 jan. 25 overleden
@@ -5003,7 +5002,7 @@ Bronnen: HvH 5929 f.238v; DTB 434 p.191, 1629 jun. 8;
 NA 2098 p.121, 1647 nov. 11.
 
 225. Cornelis Coop van Groen
-admissie:1679 feb. 1 op nominatie van
+admissie: 1679 feb. 1 op nominatie van
 Amsterdam
 aanstelling: 1679 feb. 3
 leeftijd bij aanstelling: 24 jaar
@@ -5566,7 +5565,7 @@ p.18, 1807 aug. 14; Jb.Amst.12 p.89.
 benoeming: 1657 jan. 13
 admissie: 1657 jan. 23 op nominatie van
 Amsterdam
-aanstelling:1656
+aanstelling: 1656
 leeftijd bij aanstelling: 24 jaar
 protocol: 1657-1679: GAA NA 2953-2963
 adres: 1656-1675 Appelmarkt of bij de
@@ -5783,7 +5782,7 @@ protocol: 1639-1667: GAA NA 1639-1640
 ambtsbeëindiging: 1667 sept. 8 overleden
 adres: 1649 Weeshuis (Nieuwezijds
 Voorburgwal); 1667 Kalverstraat
-nevenfuncties:1652 hoofd van de
+nevenfuncties: 1652 hoofd van de
 schouwburg; 1652-1667 kantoorknecht; van
 het Weeshuis
 herkomst: Amsterdam
@@ -6663,7 +6662,7 @@ Leidsestraat en Amstel; 1804-1819
 Oudeschans
 studie: 1772 sept. 16 ingeschreven in de
 rechten te Leiden
-nevenfuncties:1771-1819 advocaat
+nevenfuncties: 1771-1819 advocaat
 herkomst: Amsterdam
 doop: 1752 mei 17
 ondertrouw: 1782 mei 23
@@ -7123,7 +7122,7 @@ Amsterdam
 vermeld als notaris: 1605 okt. 26; 1612 mei
 23
 leeftijd bij aanstelling: 32 jaar
-faillissement:1610 apr. 26
+faillissement: 1610 apr. 26
 adres: 1593 Kalverstraat; 1617 bij de beurs
 (Rokin)
 nevenfuncties: 1606-1609 boekhouder van
@@ -7510,7 +7509,7 @@ admissie: 1638 jun. 22 op nominatie van
 Amsterdam
 aanstelling: 1638
 leeftijd bij aanstelling: 23 jaar
-protocol:1638-1676: GAA NA 1602-1608
+protocol: 1638-1676: GAA NA 1602-1608
 ambtsbeëindiging: 1677 jan. 29
 adres: 1636-1639 Brouwersgracht; 1649
 Leliegracht; 1669-1676 Haarlemmerstraat
@@ -7801,7 +7800,7 @@ gepromoveerd in de rechten te Utrecht
 vreemde talen in zijn protocol: Frans
 nevenfuncties: 1735-1771 advocaat
 herkomst: Amsterdam
-geboren:1712 apr. 17
+geboren: 1712 apr. 17
 doop: 1712 mei 8
 begraven: 1771 mrt. 16
 Bronnen: ReA 730 f.7; HvH 5931; AO 55 p.308; AO 56
@@ -8867,7 +8866,7 @@ nevenfuncties: houtkoper
 herkomst: Amsterdam
 doop: 1569 aug. 28
 ondertrouw: 1591 sept. 18
-begraven:1691 jun. 19
+begraven: 1691 jun. 19
 Bronnen: HvH 5929 f.121v; DTB 1 p.73, 1569 aug. 28; DTB
 664 p.17, 1591 sept. 18 (geeft ten onrechte op dat hij 23 jaar
 is en als herkomst 's-Gravenhage); NA 5A f.156, 1605 jan.
@@ -9727,7 +9726,7 @@ Muntplein
 godsdienst: Waals hervormd
 herkomst: Amsterdam
 doop: 1670 jan. 30
-ondertrouw:1715 jan. 1
+ondertrouw: 1715 jan. 1
 huwelijk: 1715 feb. 17
 Bronnen: HvH 5930 f.249; AO 54 p.260; AO 55 p.306; DTB
 132 p.25, 1670 jan. 30; DTB 551 p.117, 1715 jan. 1; Herenb.
@@ -11915,7 +11914,8 @@ begraven: 1666 jun. 9
 Bronnen: HvH 5929 f.290; ReA 729 p.29, 1660 jan. 2; DTB
 461 p.365, 1645 mrt. 2; DTB 475 p.14, 1655 sept. 23; DTB
 1047 p.137, 1666 jun. 9.
-544.Jacobus van Ulenbroeck
+
+544. Jacobus van Ulenbroeck
 admissie: 1663-12-16 op nominatie van
 Hillegom
 aanstelling: 1680-01-31
@@ -11926,7 +11926,7 @@ ambtsbeëindiging: 1695-07-12 overleden
 adres: 1680 Singel, tussen Nieuwendijk en
 Raadhuiss
 traat; 1689-1695 Rokin
-nevenfunctie: klerk van de secretarie
+nevenfuncties: klerk van de secretarie
 herkomst: Rotterdam
 Bronnen: HvH 5930 fo.95; AO 54 p.258; Herenb.; AO 54
 p.24.; PB 5 p.316, 1681-01-22.
@@ -12241,7 +12241,7 @@ DTB 1046 p.70, 1647 aug. 26; DBK 1 f.48v, 1639 aug. 31.
 563. Juriaan Verbeek
 admissie: 1702 feb. 14 op nominatie van
 Amsterdam
-aanstelling:1702 jan. 28
+aanstelling: 1702 jan. 28
 protocol: 1702-1718: GAA NA 7250-7264
 ambtsbeëindiging: 1718 nov. 8 overleden
 adres: 1702-1718 Hartenstraat
@@ -12369,7 +12369,7 @@ admissie: 1763 mrt. 1 op nominatie van
 Amsterdam
 aanstelling: 1763 jan. 31
 leeftijd bij aanstelling: 27 jaar
-protocol:1763-1810: GAA NA 14782-14896
+protocol: 1763-1810: GAA NA 14782-14896
 adres: 1763 Prinsengracht, tussen
 Westermarkt en Leidsestraat; 1764-1773
 Kalverstraat; 1774-1796 Rokin; 1804-1812
@@ -13126,7 +13126,7 @@ Bronnen: WK lade 187; Elias 1 p.144; Wagenaar 3 p.495,
 aug. 22.
 
 606. Mr. Egbertus Wierman
-benoeming:1706 jan. 28
+benoeming: 1706 jan. 28
 admissie: 1706 mrt. 2 op nominatie van
 Amsterdam
 aanstelling: 1706 jan. 28
@@ -13735,10 +13735,9 @@ als mede notaris; NA 877 p.377, 1652 aug. 20; NA 876-878,
 notaris; NA 874-878, 1645-1654; NA 876-881, 1650-1660;
 NA 881, 1659-1660; NA 1040 f.169, 1634 okt. 28; NA 1420
 p.301, 1637 aug. 1; NA 2186 f.25, 1647 aug. 20.
-Notarissen in Amstelland,
-ambachtsheerlijkheden en
-geannexeerde gemeenten
+
 AMSTELLAND
+
 Martin Aker: zie Amsterdam
 Simon van Assingh: zie Amsterdam
 
@@ -13759,6 +13758,7 @@ ondertrouw: 1662 feb. 16
 begraven: 1673 jul. 13
 Bronnen: HvH 5930 f.79; DTB 482 p.492, 1662 feb. 16;
 DTB 1227 p.244, 1673 jul. 13; DTB 130 p.371, 1636 okt. 1.
+
 Gijsbert van der Luffel: zie Amsterdam
 Hendrick Outgers: zie Amsterdam
 Aris Quickenburgh: zie Nieuwendam
@@ -13769,7 +13769,7 @@ Amstelland
 vermeld als notaris: 1670 apr. 25
 Amstelland; 1674 mrt. 28 Amstelland
 leeftijd bij aanstelling: 24 jaar
-familierelatie: vader van notaris Conradus
+familierelaties: vader van notaris Conradus
 van Ulenbroeck; vader van notaris Daniel
 van Ulenbroeck
 adres: 1670 Bij de Franse Kerk (O.Z.
@@ -13786,19 +13786,23 @@ PB 3 p.42, 1674 mrt. 28; PB 9 p.104, 1699 jan. 28; DTB 10
 p.350, 1678 jul. 6; DTB 533 p.167, 1701 jul. 13; DTB 1079
 f.29v, 1672 aug. 23; DTB 1102 p.54, 1677 feb. 25; AO 54
 p.234, 1680 nov. 23 tot 1689 mrt. 7.
+
 Benjamin Venkel: zie Watergraafsmeer
+
 BUIKSLOOT
-Nicolaas Lambertus Valkenburg: zie
-Nieuwendam
+
+Nicolaas Lambertus Valkenburg: zie Nieuwendam
 Cornelis Vredenhuys: zie Nieuwendam
 Pieter Vredenhuys: zie Ransdorp
+
 DIEMEN
+
 Mr. Johannes Beeldsnijder: zie Amsterdam
 Mr. Gerard Burghout: zie Amsterdam
-DURGERDAM: zie Ransdorp
 Jacob Slotboer: zie Ransdorp
 Steven Jacobsz. van der Veer: zie Ransdorp
-Claas Visser: zie Ransdorp
+Claas Visscher: zie Ransdorp
+
 HOLYSLOOT
 
 638. Gerrit van Heussen
@@ -13809,8 +13813,11 @@ koster
 herkomst: Naarden
 Bronnen: HvH 5929 f.70v, 1568 jul. 7.
 <pagina 133>
+
 HOUTRIJK
-Mr. Paulus van Beseler zie: Sloten
+
+Mr. Paulus van Beseler: zie Sloten
+
 LEIMUIDEN
 
 639. Dirk Slob
@@ -13828,7 +13835,7 @@ ARA 's-Gravenhage, RAZH
 studie: 1752 mei 27 ingeschreven in de
 rechten te Leiden; 1795 mei 11
 gepromoveerd in de rechten te Leiden
-nevenfunctie: 1772 schout van de
+nevenfuncties: 1772 schout van de
 ambachtsheerlijkheid Leimuiden en
 Vriezekoop
 herkomst: Leimuiden
@@ -13838,6 +13845,7 @@ mrt. 11 te Leimuiden
 Bronnen: HvH 5931, 1772 nov. 9; Alb.Stud.Leiden p.1037,
 1752 mei 27; Alb.Stud.Leiden p.1184, 1795 mei 11;
 Hartong; DTB 602 p.325, 1759 feb. 23.
+
 NIEUWENDAM
 
 641. Arent Donker
@@ -13847,7 +13855,7 @@ protocol: 1795-1807 Nieuwendam: GAA
 NA N 22_27
 adres: 1797 Zunderdorp; 1798-1804
 Nieuwendam
-nevenfunctie: 1797 schout van Zunderdorp
+nevenfuncties: 1797 schout van Zunderdorp
 ondertrouw: 1797 apr. 13 te Zunderdorp,
 huwelijk 1797 apr. 30 te Zunderdorp
 Bronnen: HvH 5932; DTB N 472 p.20, 1797 apr. 15; DTB N
@@ -13889,7 +13897,7 @@ Baangracht (Lijnbaansgracht); 1692
 Amstelkerkstraat (Kerkstraat); 1697 Dirck
 van Assensteeg (Dirk van Hasseltssteeg)
 was klerk bij: Vincent Swanenburgh
-nevenfunctie: 1694-1699 deurwaarder van de
+nevenfuncties: 1694-1699 deurwaarder van de
 gemene landsmiddelen
 herkomst: Amsterdam
 geboren: 1641
@@ -13935,10 +13943,10 @@ Buiksloot en Schellingwoude gepasseerde
 akten; 1716-1718 Ransdorp en
 Schellingwoude: GAA NA R 27; 1719-1721
 Buiksloot: GAA NA B 1
-familierelatie: zoon van notaris Pieter
+familierelaties: zoon van notaris Pieter
 Vredenhuys
 adres: 1721 Buiksloot
-nevenfunctie: 1726 procureur voor het
+nevenfuncties: 1726 procureur voor het
 gerecht van Zunderdorp
 herkomst: Schellingwoude
 doop: 1694 nov. 7 te Schellingwoude
@@ -13947,7 +13955,9 @@ begraven: 1776 jun. 16 te Nieuwendam
 Bronnen: HvH 5931; DTB R 653 p.11, 1694 nov. 7; DTB R
 555 p.8, 1692 okt. 18; DTB B 171, 1721 mrt. 1; NA 8321
 akte 146, 1726 aug. 15; DTB N 489 p.80.
+
 NIEUWER-AMSTEL
+
 Pieter Berkman: zie Amsterdam
 Mr. Willem de Bruijn: zie Amsterdam
 
@@ -13981,6 +13991,7 @@ Bronnen: HvH 5931; DTB 607 p.323, 1763 jul. 1;
 Alb.Stud.Leiden p.1053, 1756 jun. 10; Arch.gids 7 p.249;
 Herenb.; Jb.Amst.70 p.282; DTB 623 p.155, 1778 jun. 5;
 Jb.Amst.27 p.219; DTB 1061 f.49.
+
 Petrus Augustus de Genestet: zie Amsterdam
 Eldert de Haan: zie Watergraafsmeer
 
@@ -14006,6 +14017,7 @@ ondertrouw: 1790 mei 7; 1804 jul. 4
 Bronnen: HvH 5932; Alb.Stud.Leiden p.1155, 1786 okt. 25;
 DTB 635 p.160, 1790 mei 7; Hartong; Herenb.; DTB 652
 p.108, 1804 jul. 4; NA 20097B akte 174, 1838 sept. 12.
+
 Mr. Johannes Klinkhamer: zie Amsterdam
 
 649. Jan Willaars
@@ -14017,24 +14029,31 @@ adres: 1810 Amstelveen
 ondertrouw: 1810 apr. 20
 Bronnen: HvH 5932; Hartong; DTB 659 p.218, 1810 apr.
 20.
+
 OSDORP
-Mr. Paulus van Beseler zie: Sloten
-Hendrick Takama zie: Sloten
+
+Mr. Paulus van Beseler: zie Sloten
+Hendrick Takama: zie Sloten
+
 OUDERKERK
 
 650. Mr. Daniel Theodorus Kemper
 protocol: 1796-1811 Ouderkerk: RANH
-nevenfunctie: 1788 advocaat
+nevenfuncties: 1788 advocaat
 herkomst: Amsterdam
 Bronnen: Hartong; PB 29 p.72, 1788 jun. 20.
+
 Mr. Jeronimus Nolthenius: zie Amsterdam
 
 651. Gerrit van Oldersom
 protocol: 1730-1738 Ouderkerk: RANH NA
 4161-4163
 Bronnen: Hartong.
+
 POLANEN
+
 Mr. Paulus van Beseler: zie Sloten
+
 RANSDORP
 
 652. Joannes Gesner Fockens
@@ -14046,7 +14065,7 @@ protocol: 1780-1797 Ransdorp: GAA NA R
 <pagina 135>
 adres: 1782-1797 Ransdorp
 godsdienst: gereformeerd (hervormd)
-nevenfunctie: 1782 adjunct-secretaris
+nevenfuncties: 1782 adjunct-secretaris
 herkomst: Ransdorp
 doop: 1757 aug. 21 te Ransdorp
 ondertrouw: 1782 dec. 21 te Ransdorp,
@@ -14058,7 +14077,7 @@ Bronnen: HvH 5932; DTB R 642 p.30, 1757 aug. 21; DTB R
 653. Hillebrant IJsbrantsz. (Ransdorp)
 admissie: 1562 mrt. 5 op nominatie van
 Ransdorp
-nevenfunctie: 1562 secretaris van Ransdorp
+nevenfuncties: 1562 secretaris van Ransdorp
 Bronnen: HvH 5929 f.59v.
 
 654. Hendrik Lammes
@@ -14087,7 +14106,7 @@ protocol: 1689-1698 Ransdorp en
 Durgerdam: GAA NA R 19; 1699-1736
 Ransdorp: GAA NA R 1-2
 adres: 1684 Durgerdam
-nevenfunctie: 1707 secretaris van Ransdorp
+nevenfuncties: 1707 secretaris van Ransdorp
 huwelijk: 1684 jan. 9 te Durgerdam
 Bronnen: HvH 5930 f.176; DTB R 645 p.17, 1684 jan. 9;
 NA 7373 p.753, 1707 mei 1.
@@ -14099,7 +14118,7 @@ protocol: 1726-1732 Ransdorp en
 Durgerdam: GAA NA R 20
 adres: 1711 Schellingwoude; 1727
 Durgerdam
-nevenfunctie: 1711 secretaris te
+nevenfuncties: 1711 secretaris te
 Schellingwoude
 ondertrouw: 1711 jul. 18 te Schellingwoude,
 huwelijk 1711 aug. 2 te Schellingwoude;
@@ -14107,6 +14126,7 @@ huwelijk 1711 aug. 2 te Schellingwoude;
 begraven: 1733 jan. 20 te Durgerdam
 Bronnen: HvH 5931; DTB R 555 p.65, 1711 jul. 18; DTB R
 645 p.46, 1727 aug. 17; DTB R 201 p.41.
+
 Cornelis Vredenhuys: zie Nieuwendam
 
 658. Pieter Vredenhuys
@@ -14117,11 +14137,11 @@ protocol: 1709-1719 Ransdorp en
 Schellingwoude: GAA NA R 23-26; 1719-
 1722 Buiksloot: GAA NA B 2; 1722-1754
 Monnickendam: RANH
-familierelatie: vader van notaris Cornelis
+familierelaties: vader van notaris Cornelis
 Vredenhuys
 adres: 1692-1694 Schellingwoude; 1718
 Ransdorp
-nevenfunctie: 1692 secretaris
+nevenfuncties: 1692 secretaris
 herkomst: Buiksloot
 doop: 1671 feb. 14 te Buiksloot
 ondertrouw: 1692 okt. 18 te
@@ -14140,8 +14160,9 @@ Schellingwoude: GAA NA R 22
 660. Gillis van Wijck
 admissie: 1619 nov. 26 op nominatie van 'sGravenhage
 adres: 1619 Ransdorp
-nevenfunctie: 1619 secretaris van Ransdorp
+nevenfuncties: 1619 secretaris van Ransdorp
 Bronnen: HvH 5929 f.194v, 1619 nov. 26.
+
 SCHELLINGWOUDE
 
 661. Jan Claesz. Bijwaert
@@ -14153,9 +14174,11 @@ Bronnen: HvH 5929 f.187, 1617 okt. 12.
 protocol: 1697-1709 Schellingwoude:
 RANH
 Bronnen: Hartong.
+
 Cornelis Vredenhuys: zie Nieuwendam
 Pieter Vredenhuys: zie Ransdorp
 Tamis Vredenhuys: zie Ransdorp
+
 SLOTEN
 
 663. Mr. Paulus van Beseler
@@ -14185,8 +14208,8 @@ f.246, 1703 nov. 10; Herenb.; Amst.Cour., 1727 mei 8;
 Kohier 1742 p.204; Alb.Prom.Utrecht p.86, 1704 jul. 28; AO
 55 p.170, 1703 mei 26 tot 1761 okt. 2; DTB 1059 f.30, 1761
 okt. 9.
-Mathijs Abel Joannes Hanenberg: zie
-Amsterdam
+
+Mathijs Abel Joannes Hanenberg: zie Amsterdam
 Pieter Schrick: zie Amsterdam
 
 664. Hendrick Takama
@@ -14198,17 +14221,24 @@ adres: 1652 Amstel
 geboren: 1621
 Bronnen: HvH 5930 f.73; NA 1120 f.63, 1657 jan. 14;
 Groot-Mem. 5 f.36v.
+
 SLOTERDIJK
-Mr. Paulus van Beseler zie: Sloten
-Mathijs Abel Joannes Hanenberg zie:
-Amsterdam
-Hendrick Takama zie: Sloten
+
+Mr. Paulus van Beseler: zie Sloten
+Mathijs Abel Joannes Hanenberg: zie Amsterdam
+Hendrick Takama: zie Sloten
+
 VRIEZEKOOP
-Mr. Pieter Nicolaas Vossius zie: Leimuiden
+
+Mr. Pieter Nicolaas Vossius: zie Leimuiden
+
 DE VRIJE GEER
-Mr. Paulus van Beseler zie: Sloten
+
+Mr. Paulus van Beseler: zie Sloten
+
 WATERGRAAFSMEER
-Johannes d' Amour: zie Amsterdam
+
+Johannes d'Amour: zie Amsterdam
 
 665. Mr. Pieter Nicolaas Arntzenius
 admissie: 1773 sept. 30 op nominatie van de
@@ -14236,6 +14266,7 @@ Bronnen: HvH 5931; DTB 619 p.475, 1774 okt. 13; Herenb.;
 DTB 1051 f.89, 1799 jan. 21; Alb.Stud.Utrecht p.164, 1768;
 Alb.Prom.Utrecht 180, 1768 okt. 1; AO 56 p.234, 1771 apr.
 3; Wiersma p.20.
+
 Abraham Wesselsz. Cock: zie Amstelland
 
 666. Pieter Sceperus van Eijbergen
@@ -14274,6 +14305,7 @@ curator van de Desolate Boedelkamer
 Bronnen: HvH 5931; Hartong; NA 7606, 1720 jun. 18;
 Amst.Cour., 1724 nov. 30; Amst.Cour., 1729 jul. 25; Kohier
 1742 p.146 (curator geweest).
+
 Huijbert van Varick: zie Amsterdam
 
 669. Benjamin Venkel
@@ -14285,12 +14317,12 @@ vermeld als notaris: 1673 sept. 7; 1674 jan.
 feb. 6 Watergraafsmeer; 1690 okt. 7; 1692
 mei 20
 leeftijd bij aanstelling: 19 jaar
-familierelatie: broer van notaris Henrick
+familierelaties: broer van notaris Henrick
 Venkel
 adres: 1674 Singel; 1690 Korsjessteeg
 (Korsjespoortsteeg); 1696 Prinsengracht, bij
 de Leidsestraat
-nevenfunctie: 1676 procureur van de
+nevenfuncties: 1676 procureur van de
 Watergraafsmeer
 herkomst: Amsterdam
 geboren: 1651
@@ -14320,8 +14352,9 @@ Bronnen: HvH 5931; DTB 80 p.54, 1713 mrt. 1; DTB 585
 p.274, 1742 mei 11; Alb.Stud.Harderwijk p.124, 1766 okt.
 21; NA 12327 akte 130, 1751 mei 8; NA 10275 akte 13,
 1756 jan. 6; DTB 1105 p.66.
+
 ZUNDERDORP
+
 Arent Donker: zie Nieuwendam
 Johannes Matthias Pfeil: zie Nieuwendam
-Nicolaas Lambertus Valkenburg: zie
-Nieuwendam
+Nicolaas Lambertus Valkenburg: zie Nieuwendam

@@ -17,6 +17,20 @@ TODO
 
 #### Correctie
 
+Some manual typographical corrections to the file for easy matching/searching. No change in contents.
+
+Changed:
+
+* 544.Jacobus van Ulenbroeck --> 544. Jacobus van Ulenbroeck
+* Claas Visser: zie Ransdorp --> Claas Visscher: zie Ransdorp
+* Johannes d' Amour: zie Amsterdam --> Johannes d'Amour: zie Amsterdam
+* familierelatie: --> familierelaties:
+* nevenfunctie: --> nevenfuncties:
+
+Removed:
+
+* DURGERDAM: zie Ransdorp
+
 TODO
 
 ### Conversie naar RDF

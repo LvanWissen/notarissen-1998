@@ -7,7 +7,26 @@ from collections import defaultdict
 
 FILE = "data/repertorium.txt"
 
-keys = {
+## Cities
+
+# Villages and cities that are mentioned. Notaries are categorized
+# alphabetically and listed under the city they were working in. Sometimes, a
+# reference is made to a previous mention in another city (e.g. `Zie: Mr. Paulus
+#  van Beseler zie: Sloten`)
+
+CITIES = {
+    'AMSTERDAM', 'AMSTELLAND', 'BUIKSLOOT', 'DIEMEN', 'HOLYSLOOT', 'HOUTRIJK',
+    'LEIMUIDEN', 'NIEUWENDAM', 'NIEUWER-AMSTEL', 'OSDORP', 'OUDERKERK',
+    'POLANEN', 'RANSDORP', 'SCHELLINGWOUDE', 'SLOTEN', 'SLOTERDIJK',
+    'VRIEZEKOOP', 'DE VRIJE GEER', 'WATERGRAAFSMEER', 'ZUNDERDORP'
+}
+
+## Possible fieldnames
+# All fields that are filled in in the document. This list is taken from
+# page 26 in the original document. Changed here and in the text extraction are
+# variants of the keys such as `familierelaties` (plural) and `nevenfunctie`
+# (singular) that are not listed on page 26. The plural is used in this script.
+FIELDS = {
     'benoeming': "",
     'admissie': "",
     'creatie': "",
@@ -27,7 +46,7 @@ keys = {
     'opvolger van': "",
     'opgevolgd door': "",
     'samenwerking met': "",
-    'familierelatie': "",
+    'familierelaties': "",
     'adres':
     "Uit de ambtsperiode. Indien deze niet bekend is, zijn ook de daaraan voorafgaande of nakomende straatnamen opgenomen. De vier grote grachten zijn opgedeeld aan de hand van nadere adres aanduidingen. Het kantooradres heeft voorrang boven het huisadres. Achter de straatnaam is zo nodig tussen haakjes de huidige naam vermeld.",
     'godsdienst': "",
@@ -44,9 +63,7 @@ keys = {
     'huwelijk': "",
     'gescheiden': "",
     'overlijden': "",
-    'begraven': "",
-    'familierelaties': "",
-    'nevenfunctie': ""
+    'begraven': ""
 }
 
 
@@ -55,36 +72,116 @@ def main():
     with open(FILE, encoding='utf-8') as infile:
         lines = infile.read().split('\n')
 
-    ## Possible fieldnames
-    # All fields that are filled in in the document. This list is taken from
-    # page 26 in the original document. Added to the keys are variants of the
-    # keys such as `familierelaties` (plural) and `nevenfunctie` (singular)
-    # that are also used in the book.
+    # First, get a mapping of notary information to page (for provenance sake),
+    # a mapping to city (back-references not in there) and create a general
+    # `notaries` dictionary that is going to be filled in.
+    notaries, notary2page, notary2city = getNotariesNotary2Page2City(lines)
 
-    notary2page = getNotary2Page(lines)
+    # Then, remove the page references from the line collection
+    lines = [i for i in lines if not i.startswith('<pagina')]
+
+    # Then, remove the city references
+    lines = [i for i in lines if not i in CITIES]
+
+    # And remove the back-references
+    lines = [i for i in lines if ': zie ' not in i]
+
+    # Split the file in chunks of lines, each containing the info on one notary
+    notaryLines = splitNotaries(lines, notaries)
+
+    for n, lines in enumerate(notaryLines, 1):
+        notaries = parseNotary(lines, n=n, notaries=notaries)
+
+    return notaries
 
 
-def getNotary2Page(lines):
+def getNotariesNotary2Page2City(lines):
 
+    notaries = dict()
     notary2page = defaultdict(list)
+    notary2city = defaultdict(list)
 
     notaryNumber = None
     for line in lines:
-        if '<pagina' in line:
+        if line in CITIES:
+            city = line.lower().title()
+        elif '<pagina' in line:
             page = re.findall(r'pagina (\d+)', line)[0]
 
             # In case the notary is described on two pages
             if notaryNumber is not None:
                 notary2page[notaryNumber].append(page)
         else:
-            match = re.findall(r'^(\d+)\. ', line)
+            match = re.findall(r'^(\d+)\. (.*)', line)
             if match != []:
-                notaryNumber = int(match[0])
+                notaryNumber = int(match[0][0])
+                name = match[0][1]
 
+                notaries[notaryNumber] = {'literalName': name}
                 notary2page[notaryNumber].append(page)
+                notary2city[notaryNumber].append(city)
 
-    return notary2page
+    # back-references to cities
+    names2notaries = {notaries[i]['literalName']: i for i in notaries}
+
+    for line in lines:
+        if ': zie ' in line:
+            name, city = line.split(': zie ')
+
+            notary2city[names2notaries[name]].append(city)
+
+    return notaries, notary2page, notary2city
+
+
+def splitNotaries(lines, notaries):
+
+    notaryLines = []
+
+    notaryInfo = []
+    for i in lines:
+        if i == '' and notaryInfo != []:
+            notaryLines.append(notaryInfo)
+            notaryInfo = []
+        elif i != '':
+            notaryInfo.append(i)
+
+    return notaryLines
+
+
+def parseNotary(chunk, n=None, notaries=None):
+
+    # Correct the line breaks
+    chunk = correctChunk(chunk)
+
+    # Add to dictionary
+    for c in chunk[1:]:  # we can skip the first line that lists the name
+        for f in FIELDS:
+            if c.startswith(f):
+                notaries[n][f] = c.split(': ')[1]
+
+    return notaries
+
+
+def correctChunk(chunk):
+    # resolve line breaks
+
+    new_chunk = []
+
+    previous_c = ""
+    for c in chunk:
+        if ':' in c and c.split(':')[0] in FIELDS:
+            new_chunk.append(previous_c.strip())
+            previous_c = c
+        else:
+            previous_c += " " + c
+
+    return new_chunk
 
 
 if __name__ == "__main__":
-    main()
+    notaries = main()
+
+    import pandas as pd
+
+    df = pd.DataFrame(notaries)
+    df.to_csv('data/notaries.csv')
