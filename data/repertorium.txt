@@ -327,8 +327,8 @@ het Hof van Holland; 1716-1758
 deurwaarder van de Hoge Raad
 herkomst: Amsterdam
 doop: 1691 jul. 6
-ondertrouw: 1716 mei 29, huwelijk 1716
-jun. 14 te Diemen
+ondertrouw: 1716 mei 29
+huwelijk: 1716 jun. 14 te Diemen
 begraven: 1758 okt. 24
 Bronnen: ReA 729 p.170; HvH 5931; AO 55 p.308; DTB 13
 p.38, 1691 jul. 6; DTB 552 p.372, 1716 mei 29; DTB 9
@@ -365,7 +365,8 @@ rechten te Leiden
 nevenfuncties: 1717-1762 advocaat
 herkomst: Amsterdam
 doop: 1695 mei 15
-ondertrouw: 1732 dec. 30, huwelijk 1733
+ondertrouw: 1732 dec. 30
+huwelijk: 1733
 jan. 18
 begraven: 1763 feb. 4
 Bronnen: ReA 729 p.137; HvH 5931; AO 54 p.261; AO 55
@@ -491,7 +492,8 @@ vreemde talen in zijn protocol: Engels
 nevenfuncties: 1698 boekhouder
 herkomst: Amsterdam
 doop: 1677 jun. 2
-ondertrouw: 1711 jan. 29, huwelijk 1711
+ondertrouw: 1711 jan. 29
+huwelijk: 1711
 feb. 15
 begraven: 1741 dec. 30
 Bronnen: ReA 729 p.128; HvH 5931; AO 54 p.261; AO 55
@@ -520,7 +522,8 @@ Raadhuisstraat
 nevenfuncties: 1686 commissaris van de hop
 herkomst: Amsterdam
 geboren: 1647
-ondertrouw: 1686 apr. 19, huwelijk 1686
+ondertrouw: 1686 apr. 19
+huwelijk: 1686
 mei 5 te Buiksloot
 begraven: 1729 nov. 28
 Bronnen: ReA 729 p.75; HvH 5930 f.151; AO 54 p.258; AO
@@ -584,7 +587,8 @@ Leidsestraat; 1695-1701 Nieuwe
 Spiegelstraat; 1702-1716 Lauriergracht
 herkomst: Amsterdam
 geboren: 1646
-ondertrouw: 1677 mei 25, huwelijk 1677
+ondertrouw: 1677 mei 25
+huwelijk: 1677
 jun. 15 te Ouderkerk
 begraven: 1716 mei 15
 Bronnen: ReA 729 p.46; HvH 5930 f.115v; AO 52 p.7; AO
@@ -693,7 +697,8 @@ was klerk bij: Jacob Jacobsz. Blijenbergh
 nevenfuncties: 1641 curator
 herkomst: Haarlem
 geboren: 1615
-ondertrouw: 1649 feb. 13, huwelijk 1649
+ondertrouw: 1649 feb. 13
+huwelijk: 1649
 feb. 28 te Sloten
 begraven: 1673 feb. 14
 Bronnen: HvH 5929 f.267v; AO 52 p.9; NA 420B f.286;
@@ -807,7 +812,8 @@ studie: 1738 apr. 25 vermeld als student
 nevenfuncties: 1740-1783 klerk van de
 schepenrol; 1750 advocaat; 1750 curator
 herkomst: Amsterdam
-ondertrouw: 1769 sept. 22, huwelijk 1769
+ondertrouw: 1769 sept. 22
+huwelijk: 1769
 okt. 8 te Gouda
 begraven: 1783 aug. 25
 Bronnen: ReA 730 f.30v; HvH 5931; AO 55 p.309; AO 56
@@ -1032,8 +1038,8 @@ Regulierstoren of bij de Munt (Kalverstraat);
 nevenfuncties: klerk op het Keulse comptoir
 herkomst: Amsterdam
 doop: 1669 mei 26
-ondertrouw: 1691 dec. 22; 1705 sept. 25,
-huwelijk te Abcoude
+ondertrouw: 1691 dec. 22; 
+huwelijk: 1705 sept. 25 te Abcoude
 begraven: 1740 jun. 11
 Bronnen: HvH 5930 f.249; AO 54 p.260; AO 55 p.306; DTB
 44 p.241, 1669 mei 26; DTB 520 p.198, 1691 dec. 22; DTB
@@ -1873,7 +1879,8 @@ Warmoesgracht (Raadhuisstraat); 1762-1775
 Burgerweeshuis (Nieuwezijds Voorburgwal)
 herkomst: Amsterdam
 doop: 1730 apr. 5
-ondertrouw: 1757 apr. 29, huwelijk 1757
+ondertrouw: 1757 apr. 29
+huwelijk: 1757
 mei 15 te Utrecht
 begraven: 1775 sept. 5
 Bronnen: ReA 730 f.61v; HvH 5931; AO 55 p.310; AO 56
@@ -1903,8 +1910,8 @@ nevenfuncties: 1745-1769 advocaat; 1749-
 herkomst: Suriname
 geboren: 1723
 <pagina 43>
-ondertrouw: 1749 jan. 17; 1756 jun. 15,
-huwelijk 1756 jul. 4 te Abcoude
+ondertrouw: 1749 jan. 17; 1756 jun. 15
+huwelijk: 1756 jul. 4 te Abcoude
 begraven: 1769 apr. 13
 Bronnen: ReA 730 f.61v; HvH 5931; AO 55 p.310; AO 56
 p.345; DTB 592 p.98, 1749 jan. 17; Alb.Stud.Leiden p.976,
@@ -2196,7 +2203,8 @@ filosofie en rechten te Leiden
 nevenfuncties: 1682-1721 advocaat
 herkomst: 's-Gravenhage
 geboren: 1661
-ondertrouw: 1703 mei 4, huwelijk 1703 mei
+ondertrouw: 1703 mei 4
+huwelijk: 1703 mei
 22 te Abcoude
 begraven: 1721 mrt. 11
 Bronnen: HvH 5930 f.264; AO 54 p.260; DTB 535 p.346,
@@ -2219,8 +2227,8 @@ rechten te Leiden
 nevenfuncties: 1660-1691 advocaat
 herkomst: Amsterdam
 doop: 1640 aug. 26
-ondertrouw: 1662 feb. 10; 1686 aug. 5,
-huwelijk 1686 aug. 25 te Alkmaar
+ondertrouw: 1662 feb. 10; 1686 aug. 5
+huwelijk: 1686 aug. 25 te Alkmaar
 begraven: 1692
 Bronnen: HvH 5930 f.178v; AO 54 p.258; DTB 7 p.260,
 1640 aug. 26; Alb.Stud.Leiden p.470, 1659 mrt. 1 (geeft ten
@@ -2507,7 +2515,8 @@ protocol: 1621-1647: GAA NA 708-735
 adres: 1627-1645 Dam
 was klerk bij: Frederik van Banchem
 herkomst: Jacobswoude (Woubrugge)
-ondertrouw: 1627 jan. 23, huwelijk te
+ondertrouw: 1627 jan. 23
+huwelijk: te
 Haarlem
 Bronnen: HvH 5929 f.198; DTB 764 p.22, 1627 jan. 23;
 Kohier 1631 f.282v; NA 728 f.435, 1645 dec. 6; NA 274-
@@ -2545,7 +2554,8 @@ nevenfuncties: 1675-1692 factor van de
 vismarkt
 herkomst: Amsterdam
 doop: 1642 okt. 26
-ondertrouw: 1675 dec. 12, huwelijk 1675
+ondertrouw: 1675 dec. 12
+huwelijk: 1675
 dec. 29 te Ouderkerk
 begraven: 1692 jul. 9
 Bronnen: HvH 5930 f.103v; AO 52 p.11; AO 54 p.257; DTB
@@ -2989,7 +2999,8 @@ Latijn, Portugees, Spaans
 zijn klerk was: Jan Volkaertsz. Oli
 herkomst: Amsterdam
 geboren: 1595 of 1596
-ondertrouw: 1636 apr. 4, huwelijk 1636 apr.
+ondertrouw: 1636 apr. 4
+huwelijk: 1636 apr.
 20
 begraven: 1637 sept. 21
 Bronnen: NA 1846 p.347, 1646 mei 29 (in deze akte wordt
@@ -3123,7 +3134,8 @@ Torensteeg (Spuistraat)
 godsdienst: luthers
 nevenfuncties: 1776-1778 advocaat
 herkomst: 's-Gravenhage
-ondertrouw: 1765 apr. 11, huwelijk 1765
+ondertrouw: 1765 apr. 11
+huwelijk: 1765
 apr. 28 te Maarssen
 begraven: 1779 feb. 6
 Bronnen: ReA 731 f.39v; HvH 5932; AO 56 p.346; ReA 731
@@ -3150,7 +3162,8 @@ Brouwersgracht en Raadhuisstraat
 godsdienst: luthers
 herkomst: Amsterdam
 doop: 1769 jun. 11
-ondertrouw: 1808 apr. 1, huwelijk 1808 apr.
+ondertrouw: 1808 apr. 1
+huwelijk: 1808 apr.
 24 te Ouderkerk
 overlijden: 1829 mrt. 5
 Bronnen: HvH 5932; AO 56 p.347; AO 57 p.349; DTB 252
@@ -3522,7 +3535,8 @@ in de rechten te Leiden
 nevenfuncties: 1646-1678 advocaat
 herkomst: Amsterdam
 doop: 1623 mei 28
-ondertrouw: 1646 jun. 7, huwelijk 1646 jul.
+ondertrouw: 1646 jun. 7
+huwelijk: 1646 jul.
 3 te Leiden; 1653 feb. 7
 begraven: 1678 dec. 5
 Bronnen: HvH 5929 f.294v; AO 52 p.2; DTB 6 p.48, 1623
@@ -3611,8 +3625,8 @@ godsdienst: gereformeerd (hervormd)
 nevenfuncties: 1771 klerk bij een procureur
 herkomst: Amsterdam
 doop: 1745 jun. 6
-ondertrouw: 1773 apr. 23; 1796 sept. 23,
-huwelijk 1796 okt. 16 te Nigtevecht
+ondertrouw: 1773 apr. 23; 1796 sept. 23
+huwelijk: 1796 okt. 16 te Nigtevecht
 overlijden: 1809 nov. 28
 begraven: 1809 dec. 2
 Bronnen: ReA 731 f.13, 1771 jan. 28; HvH 5931; AO 56
@@ -4048,7 +4062,8 @@ rechten te Leiden
 nevenfuncties: 1713-1742 advocaat
 herkomst: Amsterdam
 doop: 1679 mei 7
-ondertrouw: 1713 jul. 21, huwelijk te Leiden
+ondertrouw: 1713 jul. 21
+huwelijk: te Leiden
 begraven: 1747 dec. 2
 Bronnen: ReA 729 p.96, 1704 jan. 23; HvH 5931; AO 54
 p.260; AO 55 p.307; DTB 132 p.107, 1679 mei 7;
@@ -4139,7 +4154,8 @@ secretarie; 1690 commissaris van het Leidse
 veer; 1707-1712 klerk van de hoofdofficier
 herkomst: Amsterdam
 doop: 1663 mrt. 25
-ondertrouw: 1690 mrt. 11, huwelijk 1690
+ondertrouw: 1690 mrt. 11
+huwelijk: 1690
 apr. 6 te Londen
 begraven: 1712 aug. 31
 Bronnen: ReA 729 p.112; HvH 5931; AO 54 p.260; DTB 9
@@ -4271,7 +4287,8 @@ soldaten; 1707-1727 boekhouder van de waag;
 Aalmoezeniersweeshuis
 herkomst: Lingen
 geboren: 1681-10-13
-ondertrouw: 1707-05-20, huwelijk 1707-06-09
+ondertrouw: 1707-05-20
+huwelijk: 1707-06-09
 en 1723-
 04-02
 overlijden: 1727-10-31
@@ -4300,7 +4317,8 @@ kerkmeester van de Westerkerk
 herkomst: Amsterdam
 geboren: 1687 jan. 21
 doop: 1687 jan. 23
-ondertrouw: 1717 jan. 7, huwelijk 1717 jan.
+ondertrouw: 1717 jan. 7
+huwelijk: 1717 jan.
 24
 <pagina 61>
 overlijden: 1739 aug. 15
@@ -4830,7 +4848,8 @@ Leidsestraat; 1782-1790 Leliegracht
 godsdienst: luthers
 herkomst: Amsterdam
 doop: 1742 dec. 12
-ondertrouw: 1779 apr. 10, huwelijk te
+ondertrouw: 1779 apr. 10
+huwelijk: te
 Haarlem
 <pagina 65>
 begraven: 1790 nov. 1
@@ -5012,7 +5031,8 @@ adres: 1680 Herengracht, bij de Leidsestraat;
 1680-1683 Nieuwezijds Voorburgwal
 herkomst: Amsterdam
 doop: 1654 okt. 22
-ondertrouw: 1681 dec. 11, huwelijk 1682
+ondertrouw: 1681 dec. 11
+huwelijk: 1682
 jan. 6 te Sloterdijk
 begraven: 1683 sept. 18
 Bronnen: HvH 5930 f.173v; AO 54 p.258; DTB 9 p.100,
@@ -5444,7 +5464,8 @@ Raadhuisstraat en Leidsestraat
 godsdienst: gereformeerd (hervormd)
 herkomst: Amsterdam
 doop: 1756 jul. 23
-ondertrouw: 1783 feb. 20, huwelijk 1783
+ondertrouw: 1783 feb. 20
+huwelijk: 1783
 mrt. 9 te Uithoorn
 begraven: 1804 feb. 4
 Bronnen: ReA 731 f.75v; HvH 5932; AO 56 p.347; AO 57
@@ -5473,7 +5494,8 @@ officier van het gerecht; 1719 substituut
 schout
 herkomst: Vianen
 geboren: 1643
-ondertrouw: 1677 nov. 18, huwelijk 1677
+ondertrouw: 1677 nov. 18
+huwelijk: 1677
 dec. 5 te Amstelveen
 begraven: 1719 feb. 23
 Bronnen: HvH 5930 f.169; AO 54 p.258; DTB 504 p.330,
@@ -6396,7 +6418,8 @@ nevenfuncties: 1709-1712 advocaat; 1713-
 1729 procureur
 herkomst: Amsterdam
 doop: 1683 mei 30
-ondertrouw: 1717 aug. 20, huwelijk te
+ondertrouw: 1717 aug. 20
+huwelijk: te
 Leiden
 begraven: 1729 mei 28
 Bronnen: ReA 729 p.119, 1712 jan. 29; HvH 5931; AO 54
@@ -6535,7 +6558,8 @@ Achterburgwal (Spuistraat); 1703
 Lauriergracht
 herkomst: Amsterdam
 doop: 1651 nov. 14
-ondertrouw: 1689 mrt. 5, huwelijk 1689 mrt.
+ondertrouw: 1689 mrt. 5
+huwelijk: 1689 mrt.
 22 te Loenen
 begraven: 1703 apr.
 13
@@ -7043,7 +7067,8 @@ president van de Kamer van Discipline der
 notarissen van Amsterdam
 herkomst: Lillo
 geboren: 1755
-ondertrouw: 1792 mrt. 30, huwelijk te
+ondertrouw: 1792 mrt. 30
+huwelijk: te
 Deventer
 overlijden: 1827 okt. 2
 Bronnen: ReA 732 f.7; HvH 5932; AO 56 p.347; AO 57
@@ -7696,7 +7721,8 @@ rechten te Harderwijk
 nevenfuncties: 1680-1689 advocaat
 herkomst: Amsterdam
 geboren: 1660
-ondertrouw: 1686 feb. 12, huwelijk 1686
+ondertrouw: 1686 feb. 12
+huwelijk: 1686
 mrt. 5 te Sloterdijk
 Bronnen: HvH 5930 f.202; AO 54 p.259; DTB 514 p.424,
 1686 feb. 12; DTB 1057 f.6v, 1688 nov. 3; DTB 1057 f.21v,
@@ -8521,7 +8547,8 @@ Kamer van Discipline der notarissen van
 Amsterdam
 herkomst: Amsterdam
 doop: 1767 aug. 28
-ondertrouw: 1804 okt. 5, huwelijk 1804 okt.
+ondertrouw: 1804 okt. 5
+huwelijk: 1804 okt.
 30 te Sloterdijk; 1807 nov. 13
 overlijden: 1843 apr. 10
 Bronnen: HvH 5932; AO 57 p.349; DTB 112 f.9v, 1767 aug.
@@ -8602,7 +8629,8 @@ toneeldichter
 schrijver van een instructie voor het notariaat
 herkomst: Amsterdam
 doop: 1592 mei 13
-ondertrouw: 1616 mrt. 15, huwelijk 1616
+ondertrouw: 1616 mrt. 15
+huwelijk: 1616
 apr. 5
 begraven: 1646 feb. 22
 Bronnen: HvH 5929 f.183; DTB 2 p.136, 1592 mei 13;
@@ -9007,7 +9035,8 @@ Keizersgracht bij de Leidsestraat
 godsdienst: gereformeerd (hervormd)
 herkomst: Amsterdam
 geboren: 1768
-ondertrouw: 1797 dec. 8, huwelijk 1797 dec.
+ondertrouw: 1797 dec. 8
+huwelijk: 1797 dec.
 31 te Breukelen
 overlijden: 1826 sept. 25
 Bronnen: HvH 5932; AO 56 p.504; AO 57 p.349; DTB 643
@@ -9345,7 +9374,8 @@ nevenfuncties: 1699-1704 klerk van de
 secretarie
 herkomst: Amsterdam
 doop: 1678 dec. 4
-ondertrouw: 1704 jun. 13, huwelijk te
+ondertrouw: 1704 jun. 13
+huwelijk: te
 Abcoude
 begraven: 1724 apr.
 18
@@ -9597,7 +9627,8 @@ nevenfuncties: 1784-1799 regent van het
 Nieuwezijds Huiszittenhuis
 herkomst: Amsterdam
 doop: 1725 mei 21
-ondertrouw: 1759 aug. 24, huwelijk te
+ondertrouw: 1759 aug. 24
+huwelijk: te
 Ouderkerk
 Bronnen: HvH 5931; AO 55 p.310; AO 56 p.345; DTB 81
 p.47, 1725 mei 21; DBK 1056 omsl.3147, 1799 apr. 10;
@@ -9672,7 +9703,8 @@ nevenfuncties: 1723-1770 advocaat; 1750-
 Suriname
 herkomst: Amsterdam
 doop: 1700 mei 14
-ondertrouw: 1738 okt. 31, huwelijk te 'sHertogenbosch
+ondertrouw: 1738 okt. 31
+huwelijk: te 'sHertogenbosch
 begraven: 1770 apr. 3
 Bronnen: ReA 729 p.170; HvH 5931; AO 55 p.308; AO 56
 p.344; DTB 14 p.308, 1700 mei 14; Alb.Stud.Leiden p.909,
@@ -9787,7 +9819,8 @@ adres: 1734 Kraansluis (Prins Hendrikkade);
 Burgerweeshuis (Nieuwezijds Voorburgwal)
 herkomst: Amsterdam
 doop: 1700 okt. 22
-ondertrouw: 1731 sept. 27, huwelijk te
+ondertrouw: 1731 sept. 27
+huwelijk: te
 Buiksloot
 begraven: 1761 nov. 27
 Bronnen: ReA 729 p.185; HvH 5931; AO 55 p.308; DTB
@@ -9852,7 +9885,8 @@ Nieuwe Herengracht
 godsdienst: joods
 herkomst: Amsterdam
 geboren: 1781
-ondertrouw: 1810 mrt. 2, huwelijk te
+ondertrouw: 1810 mrt. 2
+huwelijk: te
 Rotterdam
 huwelijk: 1824 nov. 18; 1830 feb. 18
 overlijden: 1843 nov. 25
@@ -9959,7 +9993,8 @@ adres: 1606 Oudezijds Achterburgwal; 1610
 St.Jansstraat; 1620 Kromelleboogsteeg
 herkomst: Amsterdam
 doop: 1575 feb. 16
-ondertrouw: 1610 jul. 24, huwelijk te
+ondertrouw: 1610 jul. 24
+huwelijk: te
 Ouderkerk
 Bronnen: DTB 969 p.50, 1574 mei 16; DTB 1 p.116, 1575
 feb. 16; DTB 414 p.339, 1610 jul. 24; DTB 5 p.32, 1612
@@ -10173,7 +10208,8 @@ Nieuwendijk en Raadhuisstraat
 godsdienst: rooms-katholiek
 herkomst: Amsterdam
 doop: 1732 okt. 26
-ondertrouw: 1782 mrt. 8, huwelijk te
+ondertrouw: 1782 mrt. 8
+huwelijk: te
 Groningen
 Bronnen: ReA 731 f.68v; HvH 5932; AO 56 p.347; DTB
 319 f.124v, 1732 okt. 26; Herenb; DTB 626 p.462, 1782 mrt.
@@ -10291,7 +10327,8 @@ Kromelleboogsteeg
 nevenfuncties: 1729 klerk
 herkomst: Meurs (Moers)
 geboren: 1685
-ondertrouw: 1728 feb. 12, huwelijk te
+ondertrouw: 1728 feb. 12
+huwelijk: te
 Sloterdijk
 begraven: 1748 dec. 31
 Bronnen: ReA 729 p.166; HvH 5931; AO 55 p.308; DTB
@@ -10318,7 +10355,8 @@ Achterburgwal bij de Huiszittensteeg
 godsdienst: Waals hervormd
 herkomst: Amsterdam
 doop: 1652 mrt. 13
-ondertrouw: 1683 jul. 31, huwelijk 1683
+ondertrouw: 1683 jul. 31
+huwelijk: 1683
 aug. 24 te Dordrecht
 Bronnen: ReA 729 p.78; HvH 5930 f.156v; AO 54 p.258;
 DTB 131 p.261, 1652 mrt. 13; DTB 511 p.404, 1683 jul. 31;
@@ -10595,7 +10633,8 @@ gemene landsmiddelen; 1701 agent van
 Charlotte Sophia, hertogin van Lijfland
 herkomst: Rhenen
 geboren: 1666
-ondertrouw: 1692 feb. 29, huwelijk 1692
+ondertrouw: 1692 feb. 29
+huwelijk: 1692
 mrt. 20 te Buiksloot
 begraven: 1701 okt. 11
 Bronnen: HvH 5930 f.232v; AO 54 p.259; DTB 520 p.290,
@@ -11038,7 +11077,7 @@ Ramskooi
 herkomst: Amsterdam
 doop: 1658 jul. 14
 ondertrouw: 1681 mrt. 28; 1688 mei 29
-huwelijk 1688 jul. 16 te Delfshaven
+huwelijk: 1688 jul. 16 te Delfshaven
 begraven: 1706 jan. 23
 Bronnen: HvH 5930 f.184v; AO 54 p.258; DTB 76 p.134,
 1658 jul. 14; DTB 508 p.271, 1681 mrt. 28; NA 3800B
@@ -11099,7 +11138,8 @@ Leliegracht
 nevenfuncties: 1668-1698 advocaat
 herkomst: Amsterdam
 geboren: 1646
-ondertrouw: 1684 okt. 28, huwelijk te
+ondertrouw: 1684 okt. 28
+huwelijk: te
 Vollenhove
 Bronnen: HvH 5930 f.202, 1685 feb. 13; AO 54 p.259; DTB
 513 p.109, 1684 okt. 28; Herenb; NA 5620 akte 127, 1698
@@ -11142,8 +11182,8 @@ Raadhuisstraat en Muntplein; 1716-1723
 Singe bij de Raadhuisstraat
 herkomst: Utrecht
 geboren: 1667
-ondertrouw: 1692 feb. 15; 1712 aug. 20
-huwelijk te Abcoude
+ondertrouw: 1692 feb. 15; 
+huwelijk: 1712 aug. 20 te Abcoude
 begraven: 1723 aug. 23
 Bronnen: HvH 5930 f.231; AO 54 p.259; DTB 520 p.277,
 1692 feb. 15; Dag.Not.Burg.83 f.60v, 1692 mei 1; Herenb;
@@ -11203,7 +11243,8 @@ studie: 1724 ingeschreven te Utrecht
 nevenfuncties: 1724-1784 advocaat
 herkomst: Utrecht
 geboren: 1704
-ondertrouw: 1730 jun. 29, huwelijk te
+ondertrouw: 1730 jun. 29
+huwelijk: te
 Utrecht
 begraven: 1784 mei 15
 Bronnen: ReA 729 p.166; HvH 5931; AO 55 p.308; AO 56
@@ -11247,7 +11288,8 @@ rechten te Leiden
 nevenfuncties: 1689-1739 advocaat
 herkomst: Vlissingen of Amsterdam
 geboren: 1663
-ondertrouw: 1704 jul. 17, huwelijk te
+ondertrouw: 1704 jul. 17
+huwelijk: te
 Abcoude
 begraven: 1739 jul. 7
 Bronnen: HvH 5930 f.238v; AO 54 p.259; AO 55 p.306;
@@ -11277,7 +11319,8 @@ rechten te Leiden
 nevenfuncties: 1707-1756 advocaat
 herkomst: Geertruidenberg
 geboren: 1685
-ondertrouw: 1715 okt. 4, huwelijk te 'sGravenhage
+ondertrouw: 1715 okt. 4
+huwelijk: te 'sGravenhage
 begraven: 1756 mei 24
 Bronnen: ReA 729 p.161; HvH 5931; AO 55 p.308;
 Alb.Stud.Leiden p.786, 1705 jul. 21; DTB 623 p.540, 1779
@@ -11522,7 +11565,8 @@ Achterburgwal (Spuistraat)
 nevenfuncties: 1742 klerk van de thesaurie
 ordinaris
 herkomst: Amsterdam
-ondertrouw: 1740 mei 13, huwelijk te
+ondertrouw: 1740 mei 13
+huwelijk: te
 Weesp
 Bronnen: HvH 5931; Miss.v.d.Raad 30 f.139, 1734 jun.23;
 DTB 583 p.220, 1740 mei 13; Kohier 1742 p.138.
@@ -11629,7 +11673,8 @@ Trippenburgwal (Kloveniersburgwal)
 studie: 1757 ingeschreven te Utrecht
 herkomst: Amsterdam
 doop: 1732 dec. 28
-ondertrouw: 1761 mrt. 13, huwelijk te
+ondertrouw: 1761 mrt. 13
+huwelijk: te
 Utrecht
 begraven: 1775 sept. 25
 Bronnen: ReA 730 f.72; HvH 5931; AO 55 p.310; AO 56
@@ -11783,8 +11828,9 @@ nevenfuncties: 1646-1657 advocaat; bij het
 Hof van Holland
 herkomst: Leiden
 geboren: 1618
-ondertrouw: 1646 mrt. 29, huwelijk 1646
-apr. 17 te Amstelveen 1657 sept. 21
+ondertrouw: 1646 mrt. 29
+huwelijk: 1646
+apr. 17 te Amstelveen; 1657 sept. 21
 Bronnen: HvH 5930 f.3v, 1648 nov. 6; AO 52 p.6; DTB 678
 p.179, 1646 mrt. 29; DTB 683 p.244, 1657 sept. 21.
 
@@ -11941,7 +11987,8 @@ Ulenbroeck; broer van Daniel van
 Ulenbroeck
 adres: 1700-1709 Herengracht
 herkomst: Amsterdam
-ondertrouw: 1709 jan. 25, huwelijk te
+ondertrouw: 1709 jan. 25
+huwelijk: te
 Vianen
 Bronnen: HvH 5930 f.240v; AO 54 p.260; PB 9 p.104, 1699
 jan. 28; DTB 10 p.350, 1678 jul. 6; DTB 533 p.167, 1701
@@ -12400,7 +12447,8 @@ rechten te Leiden
 nevenfuncties: 1719-1752 advocaat
 herkomst: Amsterdam
 doop: 1687 apr. 18
-ondertrouw: 1722 feb. 20, huwelijk te Hoorn
+ondertrouw: 1722 feb. 20
+huwelijk: te Hoorn
 begraven: 1752 jul. 1
 Bronnen: ReA 729 p.122; HvH 5931; AO 54 p.261; DTB 12
 p.142, 1687 apr. 18; Alb.Stud Leiden p.862, 1719 apr. 10
@@ -12482,7 +12530,8 @@ rechten te Leiden
 nevenfuncties: 1801 curator; 1803 advocaat
 herkomst: Durgerdam
 doop: 1781 dec. 2 te Durgerdam
-ondertrouw: 1806 okt. 17, huwelijk 1806
+ondertrouw: 1806 okt. 17
+huwelijk: 1806
 nov. 14 te Thamen aan de Amstel
 Bronnen: HvH 5932; AO 57 p.349; DTB R 647 p.8, 1781
 dec. 2; Alb.Stud.Leiden p.1199, 1802 jun. 24; DTB 655
@@ -12577,7 +12626,7 @@ sept. 15; Wagenaar 1 p.294; Elias 1 p.143; Gr.Mem.2 f.47v,
 1553 jul. 2; Het Boek jaarg.1919 p.282.
 
 581. Lambertus Pietersz. Vloits
-admissie: tussen 1565 en1591 door het Hof
+admissie: tussen 1565 en 1591 door het Hof
 van Holland op nominatie van Amsterdam
 aanstelling: op gezag van de paus
 vermeld als notaris: 1574 jul. 19; 1576 mei
@@ -12886,7 +12935,8 @@ Amstelland; 1709 opziener van het zandpad
 naar Utrecht
 herkomst: Amsterdam
 doop: 1660 jun. 20
-ondertrouw: 1685 mrt. 27, huwelijk 1685
+ondertrouw: 1685 mrt. 27
+huwelijk: 1685
 apr. 17 te Sloten
 begraven: 1723 okt. 14
 Bronnen: HvH 5930 f.184v; AO 54 p.258; DTB 105 p.256,
@@ -13145,7 +13195,8 @@ letterkunde te Leiden
 nevenfuncties: 1702-1720 advocaat
 herkomst: Zwolle
 geboren: 1680
-ondertrouw: 1705 mei 1, huwelijk te
+ondertrouw: 1705 mei 1
+huwelijk: te
 Abcoude
 Bronnen: ReA 729 p.102; HvH 5931; AO 54 p.260; DTB
 538 p.264, 1705 mei 1; Alb.Stud.Leiden p.746, 1697 sept. 16
@@ -13343,7 +13394,8 @@ Singel, bij de Raadhuisstraat ?)
 nevenfuncties: 1730 boekhouder van een
 schip
 herkomst: 's-Gravenhage
-ondertrouw: 1694 aug. 21, huwelijk te
+ondertrouw: 1694 aug. 21
+huwelijk: te
 Goudriaan
 Bronnen: HvH 5930 f.235v; AO 54 p.259; AO 55 p.306;
 ReA 389 f.217v, 1732 jan. 15; ReA 729 p.177, 1732 jan. 31;
@@ -13446,7 +13498,8 @@ Voorburgwal); 1720 Rokin; 1721 Dam
 godsdienst: Waals hervormd
 herkomst: Zijpe
 geboren: 1672
-ondertrouw: 1706 jul. 9, huwelijk 1706 jul.
+ondertrouw: 1706 jul. 9
+huwelijk: 1706 jul.
 27
 Bronnen: HvH 5930 f.245v; AO 54 p.260; DTB 540 p.139,
 1706 jul. 9; Herenb.
@@ -13650,7 +13703,8 @@ letterkunde te Leiden
 nevenfuncties: 1705-1727 advocaat
 herkomst: Leiden
 geboren: 1674
-ondertrouw: 1705 feb. 27, huwelijk te
+ondertrouw: 1705 feb. 27
+huwelijk: te
 Beusekom (Beusichem)
 begraven: 1727 feb. 3
 Bronnen: ReA 729 p.137; HvH 5931; AO 54 p.261;
@@ -13693,7 +13747,8 @@ protocol: 1663-1670: GAA NA 3177-3180
 ambtsbeëindiging: 1670 sept. 16
 adres: 1664 Peperstraat
 herkomst: IJsselstein
-ondertrouw: 1664 aug. 10, huwelijk te
+ondertrouw: 1664 aug. 10
+huwelijk: te
 Utrecht
 Bronnen: ReA 729 p.31; HvH 5930 f.88v; AO 52 p.1; ReA
 729 p.63; DTB 485 p.469, 1664 aug. 10.
@@ -13840,7 +13895,8 @@ ambachtsheerlijkheid Leimuiden en
 Vriezekoop
 herkomst: Leimuiden
 geboren: 1734
-ondertrouw: 1759 feb. 23, huwelijk 1759
+ondertrouw: 1759 feb. 23
+huwelijk: 1759
 mrt. 11 te Leimuiden
 Bronnen: HvH 5931, 1772 nov. 9; Alb.Stud.Leiden p.1037,
 1752 mei 27; Alb.Stud.Leiden p.1184, 1795 mei 11;
@@ -13856,8 +13912,8 @@ NA N 22_27
 adres: 1797 Zunderdorp; 1798-1804
 Nieuwendam
 nevenfuncties: 1797 schout van Zunderdorp
-ondertrouw: 1797 apr. 13 te Zunderdorp,
-huwelijk 1797 apr. 30 te Zunderdorp
+ondertrouw: 1797 apr. 13 te Zunderdorp
+huwelijk: 1797 apr. 30 te Zunderdorp
 Bronnen: HvH 5932; DTB N 472 p.20, 1797 apr. 15; DTB N
 474 p.22, 1798 feb. 25; DTB N 475 p.9, 1802 mrt. 21; DTB
 N 475 p.19, 1804 jul. 22; DTB N 483 p.59, 1797 apr. 13.
@@ -13873,7 +13929,8 @@ adres: 1810 Nieuwendam
 godsdienst: gereformeerd (hervormd)
 herkomst: Amsterdam
 doop: 1786 feb. 8
-ondertrouw: 1810 apr. 13, huwelijk 1810
+ondertrouw: 1810 apr. 13
+huwelijk: 1810
 mei 6 te Nieuwendam
 Bronnen: HvH 5932; DTB 103 p.57, 1786 feb. 8; DTB 659
 p.148, 1810 apr. 13 (geeft ten onrechte op dat hij 26 jaar is);
@@ -13901,8 +13958,8 @@ nevenfuncties: 1694-1699 deurwaarder van de
 gemene landsmiddelen
 herkomst: Amsterdam
 geboren: 1641
-ondertrouw: 1662 nov. 7; 1692 jun. 28,
-huwelijk 1692 jul. 21 te Buiksloot
+ondertrouw: 1662 nov. 7; 1692 jun. 28
+huwelijk: 1692 jul. 21 te Buiksloot
 Bronnen: HvH 5930 f.140v; ReA 606 nr.2, 1700 nov. 6;
 DTB 483 p.431, 1662 nov. 7; DTB 1047 p.109, 1664 apr.
 17; DTB 1069 p.169, 1689 jun. 29; DTB 520 p.515, 1692
@@ -13918,7 +13975,8 @@ leeftijd bij aanstelling: 22 jaar
 adres: 1706 Nieuwendam
 herkomst: Nieuwendam
 geboren: 1676
-ondertrouw: 1706 jun. 25, huwelijk te
+ondertrouw: 1706 jun. 25
+huwelijk: te
 Sloterdijk
 begraven: 1711 sept. 11 te Nieuwendam
 Bronnen: HvH 5930 f.254; PB 11 p.422, 1706 nov. 22; DTB
@@ -14069,7 +14127,7 @@ nevenfuncties: 1782 adjunct-secretaris
 herkomst: Ransdorp
 doop: 1757 aug. 21 te Ransdorp
 ondertrouw: 1782 dec. 21 te Ransdorp,
-huwelijk 1783 jan. 5 te Ransdorp
+huwelijk: 1783 jan. 5 te Ransdorp
 begraven: 1797 jun. 17 te Ransdorp
 Bronnen: HvH 5932; DTB R 642 p.30, 1757 aug. 21; DTB R
 643 p.12, 1782 dec. 21; DTB R 628 p.177, 1797 jun. 17.
@@ -14121,7 +14179,7 @@ Durgerdam
 nevenfuncties: 1711 secretaris te
 Schellingwoude
 ondertrouw: 1711 jul. 18 te Schellingwoude,
-huwelijk 1711 aug. 2 te Schellingwoude;
+huwelijk: 1711 aug. 2 te Schellingwoude;
 1727 aug. 17 te Durgerdam
 begraven: 1733 jan. 20 te Durgerdam
 Bronnen: HvH 5931; DTB R 555 p.65, 1711 jul. 18; DTB R
@@ -14145,10 +14203,10 @@ nevenfuncties: 1692 secretaris
 herkomst: Buiksloot
 doop: 1671 feb. 14 te Buiksloot
 ondertrouw: 1692 okt. 18 te
-Schellingwoude, huwelijk 1692 nov. 2 te
 Schellingwoude; 1718 jun. 17 te
-Schellingwoude, huwelijk 1718 jul. 3 te
-Ransdorp
+Schellingwoude
+huwelijk: 1692 nov. 2 te
+Schellingwoude; 1718 jul. 3 te Ransdorp
 Bronnen: HvH 5930 f.233v; DTB B 472 p.84, 1671 feb. 14;
 Arch.gids 7 p.249; DTB R 653 p.11, 1694 nov. 7; DTB R
 555 p.8, 1692 okt. 18; DTB R 555 p.83, 1718 jun. 17.

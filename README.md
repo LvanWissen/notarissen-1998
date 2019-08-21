@@ -27,6 +27,12 @@ Changed:
 * familierelatie: --> familierelaties:
 * nevenfunctie: --> nevenfuncties:
 * 28 jaar1 --> 28 jaar
+* huwelijk 1783 jan. 5 te Ransdorp --> huwelijk: 1783 jan. 5 te Ransdorp
+* huwelijk 1711 aug. 2 te Schellingwoude; --> huwelijk: 1711 aug. 2 te Schellingwoude;
+* ondertrouw: 1692 okt. 18 te Schellingwoude, huwelijk 1692 nov. 2 te Schellingwoude; 1718 jun. 17 te Schellingwoude, huwelijk 1718 jul. 3 te Ransdorp --> ondertrouw: 1692 okt. 18 te Schellingwoude; 1718 jun. 17 te Schellingwoude huwelijk: 1692 nov. 2 te Schellingwoude; 1718 jul. 3 te Ransdorp
+* admissie: tussen 1565 en1591 door het Hof --> admissie: tussen 1565 en 1591 door het Hof
+
+For a full list, see the history of commits to [`data/repertorium.txt`](https://github.com/LvanWissen/notarissen-1998/commits/master/data/repertorium.txt).
 
 Removed:
 

@@ -165,34 +165,99 @@ def parseNotary(chunk, n=None, notaries=None):
     ## birth
     # field = 'geboren'
     if notaries[n].get('geboren'):
-        birthdate = notaries[n]['geboren']
-        date = getDate(birthdate)
+        birthDate = notaries[n]['geboren']
+        date = getDate(birthDate)
 
         notaries[n]['birthDate'] = date
 
     ## baptism
     # field = 'doop'
     if notaries[n].get('doop'):
-        birthdate = notaries[n]['doop']
-        date = getDate(birthdate)
+        baptismDate = notaries[n]['doop']
+        date = getDate(baptismDate)
 
         notaries[n]['baptismDate'] = date
 
     ## death
     # field = 'overlijden'
     if notaries[n].get('overlijden'):
-        birthdate = notaries[n]['overlijden']
-        date = getDate(birthdate)
+        deathDate = notaries[n]['overlijden']
+        date = getDate(deathDate)
 
         notaries[n]['deathDate'] = date
 
+    ## intended marriage
+    # field = 'ondertrouw'
+    if notaries[n].get('ondertrouw'):
+        intendedMarriageDate = notaries[n]['ondertrouw']
+        date = getDate(intendedMarriageDate)
+
+        notaries[n]['intendedMarriageDate'] = date
+
+    ## marriage
+    # field = 'huwelijk'
+    if notaries[n].get('huwelijk'):
+        marriageDate = notaries[n]['huwelijk']
+        date = getDate(marriageDate)
+
+        notaries[n]['marriageDate'] = date
+
+    ## divorce
+    # field = 'gescheiden'
+    if notaries[n].get('gescheiden'):
+        divorceDate = notaries[n]['gescheiden']
+        date = getDate(divorceDate)
+
+        notaries[n]['divorceDate'] = date
+
     ## appointment
-    # field = 'aanstelling'
-    if notaries[n].get('aanstelling'):
-        appointmentDate = notaries[n]['aanstelling']
+    # field = 'benoeming'
+    if notaries[n].get('benoeming'):
+        appointmentDate = notaries[n]['benoeming']
         date = getDate(appointmentDate)
 
         notaries[n]['appointmentDate'] = date
+
+    ## admission
+    # field = 'admissie'
+    if notaries[n].get('admissie'):
+        admissionString = notaries[n]['admissie']
+        if '; ' in admissionString:
+            admissions = admissionString.split('; ')
+        else:
+            admissions = [admissionString]
+
+        dates = []
+        nominatedBys = []
+
+        for admission in admissions:
+            if ' op nominatie van ' in admission:
+                admissionDate, nominatedBy = admission.split(
+                    ' op nominatie van ')
+                dates.append(getDate(admissionDate))
+                nominatedBys.append(nominatedBy)
+            else:
+                dates.append(getDate(admission))
+                nominatedBys.append(None)
+
+        notaries[n]['admissionDate'] = dates
+        notaries[n]['nominatedBy'] = nominatedBys
+
+    ## commission
+    # field = 'aanstelling'
+    if notaries[n].get('aanstelling'):
+        commissionDate = notaries[n]['aanstelling']
+        date = getDate(commissionDate)
+
+        notaries[n]['commissionDate'] = date
+
+    ## bankrupcy
+    # field = 'faillissement'
+    if notaries[n].get('faillissement'):
+        bankrupcyDate = notaries[n]['faillissement']
+        date = getDate(bankrupcyDate)
+
+        notaries[n]['bankrupcyDate'] = date
 
     return notaries
 
@@ -230,7 +295,7 @@ def getDate(datestring):
     if ' te ' in datestring:
         datestring, place = datestring.split(' te ')  #TODO place?
 
-    if 'of' in datestring:
+    if ' of ' in datestring:
         return tuple(getDate(d) for d in datestring.split(' of '))
 
     if ', ' in datestring:
@@ -246,9 +311,9 @@ def getDate(datestring):
         return f"{parsedate.year}"
 
     elif parsedate.day == datetime.now().day:
-        return f"{parsedate.year}-{str(parsedate.month).zfill(1)}"
+        return f"{parsedate.year}-{str(parsedate.month).zfill(2)}"
     else:
-        return f"{parsedate.year}-{str(parsedate.month).zfill(1)}-{str(parsedate.day).zfill(1)}"
+        return f"{parsedate.year}-{str(parsedate.month).zfill(2)}-{str(parsedate.day).zfill(2)}"
 
 
 if __name__ == "__main__":
