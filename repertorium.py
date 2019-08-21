@@ -246,9 +246,9 @@ def getDate(datestring):
         return f"{parsedate.year}"
 
     elif parsedate.day == datetime.now().day:
-        return f"{parsedate.year}-{parsedate.month}"
+        return f"{parsedate.year}-{str(parsedate.month).zfill(1)}"
     else:
-        return f"{parsedate.year}-{parsedate.month}-{parsedate.day}"
+        return f"{parsedate.year}-{str(parsedate.month).zfill(1)}-{str(parsedate.day).zfill(1)}"
 
 
 if __name__ == "__main__":
