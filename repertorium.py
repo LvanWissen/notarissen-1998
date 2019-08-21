@@ -267,6 +267,36 @@ def parseNotary(chunk, n=None, notaries=None):
 
         notaries[n]['bankrupcyDate'] = date
 
+    ## withdrawal
+    # field = 'ambtsbeëindiging'
+    if notaries[n].get('ambtsbeëindiging'):
+        withdrawalString = notaries[n]['ambtsbeëindiging']
+        # date = getDate(withdrawalDate)
+        match = re.split(r'( \d{1,2} )', withdrawalString, 1)
+
+        if len(match) == 1:
+            withdrawalDate = match[0]
+            withdrawalReason = None
+        else:
+            withdrawalDate, splittoken, withdrawalReason = match
+            withdrawalDate += splittoken
+
+        date = getDate(withdrawalDate)
+
+        notaries[n]['withdrawalDate'] = date
+        notaries[n]['withdrawalReason'] = withdrawalReason
+
+    ## addresses
+    # field = 'adres'
+    if notaries[n].get('adres'):
+        addressString = notaries[n]['adres']
+        if '; ' in addressString:
+            adresses = addressString.split('; ')
+        else:
+            adresses = [addressString]
+
+        notaries[n]['adresses'] = adresses
+
     return notaries
 
 
