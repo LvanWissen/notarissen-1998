@@ -251,6 +251,14 @@ def parseNotary(chunk, n=None, notaries=None):
 
         notaries[n]['commissionDate'] = date
 
+    ## mentioned as notary
+    # field = 'vermeld als notaris'
+    if notaries[n].get('vermeld als notaris'):
+        mentionedAsNotaryDate = notaries[n]['vermeld als notaris']
+        date = getDate(mentionedAsNotaryDate)
+
+        notaries[n]['mentionedAsNotaryDate'] = date
+
     ## bankrupcy
     # field = 'faillissement'
     if notaries[n].get('faillissement'):
