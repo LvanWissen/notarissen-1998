@@ -196,6 +196,7 @@ def parseNotary(chunk, n=None, notaries=None):
         - withdrawal
         - address(es)
         - religion(s)
+        -foreign language(s)
 
     Args:
         chunk (list): lines from the text file beloning to one notary
@@ -360,6 +361,21 @@ def parseNotary(chunk, n=None, notaries=None):
             religions = [religionString]
 
         notaries[n]['religions'] = religions
+
+    ## foreign languages
+    # field = 'vreemde talen in zijn protocol'
+    if notaries[n].get('vreemde talen in zijn protocol'):
+        languageString = notaries[n]['vreemde talen in zijn protocol']
+        if 'vreemde taal welke hij kende' in languageString:
+            languageString = languageString.replace(
+                'vreemde taal welke hij kende', '').strip()
+
+        if ', ' in languageString:
+            foreignLanguages = languageString.split(', ')
+        else:
+            foreignLanguages = [languageString]
+
+        notaries[n]['foreignLanguages'] = foreignLanguages
 
     return notaries
 
