@@ -1,5 +1,5 @@
 """
-Script to parse the Notarial Repertorium. 
+Script to parse the Notarial Repertorium 1998. 
 """
 
 import re
@@ -29,6 +29,8 @@ CITIES = {
 # page 26 in the original document. Changed here and in the text extraction are
 # variants of the keys such as `familierelaties` (plural) and `nevenfunctie`
 # (singular) that are not listed on page 26. The plural is used in this script.
+# Also, the phrase 'zijn klerken waren' does not occur in the document. Instead
+# 'zijn klerk was' is used.
 FIELDS = {
     'benoeming': "",
     'admissie': "",
@@ -57,7 +59,7 @@ FIELDS = {
     'studie': "",
     'vreemde talen in zijn protocol': "",
     'vreemde talen welke hij kende': "",
-    'zijn klerken waren': "",
+    'zijn klerk was': "",
     'nevenfuncties': "De andere functies tijdens zijn leven.",
     'herkomst': "",
     'geboren': "",
@@ -67,6 +69,12 @@ FIELDS = {
     'gescheiden': "",
     'overlijden': "",
     'begraven': ""
+}
+
+# TODO For mapping to LICR? https://druid.datalegend.net/dataLegend/LICR/
+RELIGIONS = {
+    'gereformeerd (hervormd)', 'rooms-katholiek', 'remonstrants',
+    'Waals hervormd', 'Engels presbyteriaans', 'luthers', 'joods'
 }
 
 
@@ -90,7 +98,7 @@ def main():
     lines = [i for i in lines if ': zie ' not in i]
 
     # Split the file in chunks of lines, each containing the info on one notary
-    notaryLines = splitNotaries(lines, notaries)
+    notaryLines = splitNotaries(lines)
 
     for n, lines in enumerate(notaryLines, 1):
         notaries = parseNotary(lines, n=n, notaries=notaries)
@@ -99,6 +107,17 @@ def main():
 
 
 def getNotariesNotary2Page2City(lines):
+    """Build a dictionary that contains information for each notary. Keep track 
+    of the page the notary was described and the city section in which he was
+    mentioned (for provenance). 
+    
+    Args:
+        lines (str): Lines as coming from the txt file.
+    
+    Returns:
+        tuple: dictionary of dictionaries of fields, a mapping of notaryNumber 
+        to page(s), a mapping of notaryNumber to city/cities.
+    """
 
     notaries = dict()
     notary2page = defaultdict(list)
@@ -136,7 +155,15 @@ def getNotariesNotary2Page2City(lines):
     return notaries, notary2page, notary2city
 
 
-def splitNotaries(lines, notaries):
+def splitNotaries(lines):
+    """Segment the txt file into chunks of information for one notary.
+    
+    Args:
+        lines (list): lines from the txt file
+    
+    Returns:
+        list: list of lists, each with lines for one notary
+    """
 
     notaryLines = []
 
@@ -152,6 +179,32 @@ def splitNotaries(lines, notaries):
 
 
 def parseNotary(chunk, n=None, notaries=None):
+    """Parse notary information for each notary chunk and return a dictionary.
+    
+    Fields parsed are:
+        - birth
+        - baptism
+        - death
+        - intended marriage
+        - marriage
+        - divorce
+        - appointment
+        - admission
+        - commission
+        - mentioned as notary
+        - bankrupcy
+        - withdrawal
+        - address(es)
+        - religion(s)
+
+    Args:
+        chunk (list): lines from the text file beloning to one notary
+        n (int, optional): notaryNumber. Defaults to None.
+        notaries (dict, optional): Dictionary to be filled. Defaults to None.
+    
+    Returns:
+        dict: A filled dictionary with information on the notary. 
+    """
 
     # Correct the line breaks
     chunk = correctChunk(chunk)
@@ -297,12 +350,30 @@ def parseNotary(chunk, n=None, notaries=None):
 
         notaries[n]['adresses'] = adresses
 
+    ## relgions
+    # field = 'godsdienst'
+    if notaries[n].get('godsdienst'):
+        religionString = notaries[n]['godsdienst']
+        if '; ' in religionString:
+            religions = religionString.split('; ')
+        else:
+            religions = [religionString]
+
+        notaries[n]['religions'] = religions
+
     return notaries
 
 
 def correctChunk(chunk):
-    # resolve line breaks
-
+    """Try to fix the line breaks created by the PDF-columns in the document.
+    
+    Args:
+        chunk (list): List of lines from one notary.
+    
+    Returns:
+        list: A list of lines in which each line represents one type of 
+        information, indicated by the field types in FIELDS. 
+    """
     new_chunk = []
 
     previous_c = ""
@@ -317,6 +388,15 @@ def correctChunk(chunk):
 
 
 def getDate(datestring):
+    """Try to parse a date string and return an isodate (8601).
+    
+    Args:
+        datestring (str): The date as string
+    
+    Returns:
+        str: iso-8601 formatted date. Returns a tuple if multiple dates are 
+        found. Returns None if no date is found. 
+    """
 
     if '; ' in datestring:
         dates = tuple(

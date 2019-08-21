@@ -12867,7 +12867,7 @@ protocol: 1794-1797: GAA NA 18421-
 ambtsbeëindiging: 1799 mei 8
 adres: 1794 Kloveniersburgwal; 1794-1796
 Raamgracht
-godsdienst: Luthers, gereformeerd
+godsdienst: luthers; gereformeerd
 (hervormd)
 studie: 1789 sept. 9 ingeschreven in de
 rechten te Leiden; 1791 nov. 30
